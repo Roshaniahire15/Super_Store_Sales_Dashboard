@@ -1,6 +1,6 @@
 # Super_Store_Sales_Dashboard
 
-# Objective :- To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights.
+# Objective :-  To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights.
 
 # Description :-
 The objective can be broken down into the following detailed components:
